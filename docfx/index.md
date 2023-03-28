@@ -96,6 +96,7 @@ Create new project from template
 
 ~~~
 dotnet new [shortname] -n YOUR_PROJECT_NAME
+//e.g. dotnet new axeblazor -n MyFirstBlazorProject
 ~~~
 
 #### Prepare your PLC and AX project
